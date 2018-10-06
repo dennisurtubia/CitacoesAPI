@@ -4,10 +4,12 @@ API criada para retornar citações famosas. No momento estão disponíveis 1035
 ## Go
 Agora a CitacoesAPI também esta disponivel em Golang. [Clique Aqui](https://github.com/WillianRod/CitacoesAPI/tree/master/go)
 
-## Versão Node
+Implementação em Golang por [Thiago May](https://github.com/maythiago).
+
+## Node.Js
 Agora a CitacoesAPI também esta disponivel em Node.js. [Clique Aqui](https://github.com/WillianRod/CitacoesAPI/tree/master/node)
 
-Agradecimentos ao [Sergio Junior](https://github.com/SergioJrDev) pela contribuição ao projeto.
+Implementação em node por [Sergio Junior](https://github.com/SergioJrDev).
 
 ## Implementação
 Para implementar o api ao código, basta adicionar as seguintes linhas de código:
