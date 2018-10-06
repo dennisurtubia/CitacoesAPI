@@ -2,9 +2,8 @@
 API criada para retornar citações famosas. No momento estão disponíveis 1035 citações.
 
 ## Requisitos
-```
 [Go](https://golang.org/dl/)
-```
+
 
 ## Implementação
 Para rodar o projeto, adicione a pasta do projeto na variavel GOPATH
