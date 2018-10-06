@@ -1,6 +1,9 @@
 # CitacoesAPI
 API criada para retornar citações famosas. No momento estão disponíveis 1035 citações.
 
+## Go
+Agora a CitacoesAPI também esta disponivel em Golang. [Clique Aqui](https://github.com/WillianRod/CitacoesAPI/tree/master/go)
+
 ## Versão Node
 Agora a CitacoesAPI também esta disponivel em Node.js. [Clique Aqui](https://github.com/WillianRod/CitacoesAPI/tree/master/node)
 
@@ -30,3 +33,4 @@ Se preferir retornar a citação em xml, a api também esta preparada para isso.
 ```sh
 getquote.php?type=xml
 ```
+
