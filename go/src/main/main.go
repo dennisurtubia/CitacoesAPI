@@ -2,13 +2,13 @@ package main
 
 import(
 	"quote"
-    "fmt"
     "net/http"
     "log"
+	"encoding/json"
 )
 func getquote(w http.ResponseWriter, r *http.Request) {
 	randomQuote := quote.GetRandomQuote()
-    fmt.Fprintf(w,"\"%s\" (%s)", randomQuote.Quote, randomQuote.Author)
+	json.NewEncoder(w).Encode(randomQuote)
 }
 
 func main() {
