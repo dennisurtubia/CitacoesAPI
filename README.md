@@ -1,6 +1,11 @@
 # CitacoesAPI
 API criada para retornar citações famosas. No momento estão disponíveis 1035 citações.
 
+## Versão Node
+Agora a CitacoesAPI também esta disponivel em Node.js. [Clique Aqui](https://github.com/WillianRod/CitacoesAPI/tree/master/node)
+
+Agradecimentos ao [Sergio Junior](https://github.com/SergioJrDev) pela contribuição ao projeto.
+
 ## Implementação
 Para implementar o api ao código, basta adicionar as seguintes linhas de código:
 ```sh
