@@ -11,6 +11,11 @@ Agora a CitacoesAPI também esta disponivel em Node.js. [Clique Aqui](https://gi
 
 Implementação em node por [Sergio Junior](https://github.com/SergioJrDev).
 
+## Flask
+Agora a CitacoesAPI também esta disponivel em Flask. [Clique Aqui](https://github.com/WillianRod/CitacoesAPI/tree/master/flask)
+
+Implementação em Flask por [Dennis Urtubia](https://github.com/dennisurtubia).
+
 ## Implementação
 Para implementar o api ao código, basta adicionar as seguintes linhas de código:
 ```sh
